@@ -4,7 +4,7 @@
 name = "cf-new-worker"
 
 # 你的 Worker 的主入口文件。根据你的项目，这里必须是 "_worker.js"
-main = "_worker.js"
+main = "少年你相信光吗"
 
 # 账户ID，在 Cloudflare 控制台 worker 右侧栏可以找到，是可选的但建议加上
 # account_id = "你的账户ID"
